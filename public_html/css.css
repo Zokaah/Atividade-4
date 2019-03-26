@@ -1,0 +1,198 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body{
+    
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+#principal{
+    background-color: #10707f;
+    min-height: 50px;
+}
+#header{
+    background-color: #000;
+    height: 50px;
+}
+
+#corpo{
+    
+    height: auto;
+    text-align: center;
+}
+#texto1{
+    padding: 50px;
+     text-align: justify;
+     font-size:1.5em;
+     top:50px;
+}
+
+
+
+
+.image{
+height: auto;
+    width: 700px;
+    margin-top: 5%;
+    
+}
+#rodapedireita{
+    background-color: #000;
+    height: 50px;
+}
+
+#rodapeesquerda{
+    background-color: #000;
+    height: 50px;
+}
+#header2{
+    background-color: #000;
+    
+}
+
+
+hr{
+   border:2px solid #4e1681;  
+}
+
+
+.hr1{
+    margin-top:15px;
+}
+
+
+.btn {
+    background-color:#4e1681;
+    border: none;
+
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+
+.btn:hover {opacity: 0.5;
+
+}
+a:visited{
+    color:#cccccc;
+}
+a:link{
+    color:#ffffff;
+}
+
+
+
+h2{
+    color:#4e1681;
+}
+
+.cadastro1{
+    
+   
+  
+    margin-left:50%;
+    font-size: 1em;
+    margin-top: 8%;
+}
+
+.sumir{
+   Visibility:hidden;
+}
+
+
+
+
+
+form{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:#ffffff;
+}
+
+.container-fluid{
+    background-color: #009999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact-form{
+    background:linear-gradient(to right,#0072ff,#00c6ff);  
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 50%;
+   
+    height: 500px;
+    border-radius: 2%;
+    
+}
+
+.contact-form .form-control{
+    border-radius: 1rem;
+    
+}
+
+.contact-form form{
+    padding: 15%;
+    
+}
+
+.contact-form form .row{
+    margin-bottom: -5%;
+}
+
+
+#nome,#Email{
+    
+   
+    width: 500px;
+    height: 50px;
+    
+    
+}
+
+
+
+
+#errorNome{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+.teste{
+    float:right;
+    
+}
+
+
+
+
+
